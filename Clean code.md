@@ -166,5 +166,3 @@ The key for this chapter is a thing called incrementalism, incrementalism refers
 Talking about bad code, cleaning bad code is a very daunting task, this takes an immense amount of time and effort. Although keep the code clean is very easy, within some minutes you can keep a new functionality clean and working as well.  So take the tip: keep your code as clean and simple as it can be, and never let the mess get started. 
 
 Some things can help us to keep always writing clean code, the first is TDD (Test-Driven Development) which simply told us that you must write tests for your code to be certain that every improvement that you've made don't affect any functionality or breaks up some parts of the code. Another thing that we must observe is the separation of concerns, which told us that every function or class should be responsible for one concern, which again makes the code simple to maintain. And finally but at least, always try to break up the code into pieces that are so much easier to maintain. 
-
-# Smells and Heuristics
